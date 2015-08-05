@@ -1,0 +1,23 @@
+span.name {
+    color:red;
+}
+
+.name::before{
+    content:"This guy";
+
+}
+
+.name::after{
+    content:"is pretty neat";
+
+}
+
+.fa-bomb {
+    font-size:10px;
+    color:green;
+}
+
+.fa-bomb:hover {
+    color:red;
+
+}

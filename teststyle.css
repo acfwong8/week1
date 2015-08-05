@@ -1,0 +1,45 @@
+body{
+    font-size: 14px;
+    color: lightgrey;
+}
+
+ul li:nth-child(1){
+    background: red;
+}
+
+ul li:nth-child(4){
+    background: blue;
+}
+
+ul li:nth-child(2n){
+    color: black;
+}
+
+a{
+    background: white;
+    font-size: 45px;
+    text-decoration: none;
+}
+
+a:hover, a:focus{
+    background: green;
+    color:white;
+}
+
+a:visited{
+    background: yellow;
+    color:red;
+}
+a:active{
+    text-decoration: underline;
+}
+
+p.special{
+    background: yellow;
+}
+
+p#first {
+    background:red;
+    color:white;
+    font-size: 30px;
+}

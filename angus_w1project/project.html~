@@ -1,0 +1,71 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <title>Drive to strive</title>
+    <!-- eb garamond, Cardo !-->
+    <link href='http://fonts.googleapis.com/css?family=Cardo' rel='stylesheet' type='text/css'>
+    <link rel="stylesheet" href="project.css">
+  </head>
+
+  <body>
+    <div class="wrapper">
+      <div class="headline">
+	<div class="links">
+	  <a class="headerlink" href="#pursuit">Pursuit</a>	
+	  <!--<a class="headerlink" href="#passion">Passion</a>!-->	
+	  <a class="headerlink" href="#inspiration">Inspire</a>	
+	  <!--<a class="headerlink" href="#motivation">Motivate</a>!-->
+	  <a class="headerlink" href="#perfection">Perfect</a>
+	</div>
+      </div>
+      <div class="pursuit subject" id="pursuit">
+	<h1 class="title">Pursuit of enlightenment</h1>
+      </div>
+
+      <div class="pursuit text" id="pursuittext">
+	<p class="pursuit content" id="pursuitcontent">Life is a chase. The universe contains infinite knowledge and possibilities, and though it is impossible to contain all that into  human brain, we try to accomplish all that we can. We try to make sense of life within our own limited time, set our goals, and hope to achieve our higher self by the end. This is my belief for a higher truth, and a pursuit of self fulfillment.</p>
+	<img src="images/universe.jpg"  class="contentimg" id="pursuitimg">
+      </div>
+      <!--
+      <div id="passion" class="passion subject">
+	<h1 class="title">Trace your passion</h1>
+      </div>
+      !-->
+      <div id="inspiration" class="inspiration subject">
+	<h1 class="title">Find your inspiration</h1>
+      </div>
+       <div class="inspire text" id="inspiretext">
+	<p class="inspire content" id="inspirecontent">Inspiration comes in many forms and sizes; the lightest of words could create the heaviest effects. The desire to create change, improve life, end suffering, and anything else far wide and in between, is all a consequence of experiecing or viewing the experience of a situation where a change would modify a situation for the better. Thus, a primary importance of inspiration is that exposure is unlimited, much further reaching than ignorance.</p>
+	<img src="images/looking.png"  class="contentimg" id="inspireimg">
+      </div>
+       <!--
+      <div id="motivation" class="motivation subject">
+	<h1 class="title">Move with Motivation</h1>
+
+      </div>
+      !-->
+      <div id="perfection" class="perfection subject">
+	<h1 class="title">Chase perfection</h1>
+      </div>
+      <div class="perfection text" id="perfecttext">
+	<p class="perfection content" id="perfectcontent">Perfection is an anomaly. Theoretically speaking, perfection exists. Realistically speaking, it is impossible to achieve. However, that does not mean one should not seek to achieve such a state in their pursuits. The journey towards perfection is an infinite, often repeating similar actions or thoughts, but fulfilling path. Continuous self reflection and being open to criticism opens the path to self improvement, and therein exists the true meaning of enlightenment. <em>"I would rather practice one kick ten thousand times, than ten thousand kicks a single time."</em> </p>
+	<img src="images/upsidedown.png"  class="contentimg" id="perfectimg">
+      </div>
+      
+      
+    </div>
+
+    <div class="footer">
+      <div class="contact">
+	<a class="footerlink" href="#">E-mail</a>	
+	
+	<a class="footerlink" href="#">GitHub</a>	
+
+	<a class="footerlink" href="#">Facebook</a>
+      </div>
+    </div>
+
+    
+  </body>
+
+</html>
